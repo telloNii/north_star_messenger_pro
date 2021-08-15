@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578129599929",
+    "project_id": "north-star-1-14848",
+    "storage_bucket": "north-star-1-14848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578129599929:android:34b58216fb5e0ca2aaaa68",
+        "android_client_info": {
+          "package_name": "inc.northstar.north_star_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578129599929-5u9r7hghuoklt4tgojkhu2ikgpc1l24b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLN2rt-JldA4VtLxM-ES4HwphKJW8rcl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578129599929-5u9r7hghuoklt4tgojkhu2ikgpc1l24b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
