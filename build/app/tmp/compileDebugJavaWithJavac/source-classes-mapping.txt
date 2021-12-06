@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/north_star_messenger/BuildConfig.java
- com.example.north_star_messenger.BuildConfig
